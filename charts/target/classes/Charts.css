@@ -1,0 +1,30 @@
+.chart-plot-background {-fx-background-color: white;}
+
+.default-color0.chart-pie { -fx-pie-color: red;}
+.default-color1.chart-pie { -fx-pie-color: yellow; }
+.default-color2.chart-pie { -fx-pie-color: green;}
+
+.default-color0.chart-bar { -fx-bar-fill: #ff7777;}
+.default-color1.chart-bar { -fx-bar-fill: #ffff77;}
+.default-color2.chart-bar { -fx-bar-fill: #77ff77;}
+
+.default-color0.chart-area-symbol { -fx-background-color: #ff0000, #ffffff;}
+.default-color1.chart-area-symbol { -fx-background-color: #0000ff, #ffffff;}
+.default-color2.chart-area-symbol { -fx-background-color: #00ff00, #ffffff;}
+
+.default-color0.chart-series-area-line { -fx-stroke: #ff7744; }
+.default-color1.chart-series-area-line { -fx-stroke: #4444ff; }
+.default-color2.chart-series-area-line { -fx-stroke: #44ff44; }
+
+.default-color0.chart-series-area-fill { -fx-fill: #ff777788; }
+.default-color1.chart-series-area-fill { -fx-fill: #7777ff88; }
+.default-color2.chart-series-area-fill { -fx-fill: #77ff7788; }
+
+.default-color0.chart-bubble {-fx-fill: #ff777788; }
+.default-color1.chart-bubble {-fx-fill: #7777ff88; }
+.default-color2.chart-bubble {-fx-fill: #77ff7788; }
+
+.chart-bubble.series0.default-color0{-fx-bubble-fill: "ff000088";}
+.chart-bubble.series1.default-color1{-fx-bubble-fill: "00ff0088";}
+.chart-bubble.series0.bubble-legend-symbol.default-color0 {-fx-bubble-fill: "ff000088";}
+.chart-bubble.series1.bubble-legend-symbol.default-color1 {-fx-bubble-fill: "00ff0088";}
